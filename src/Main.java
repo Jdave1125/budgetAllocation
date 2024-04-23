@@ -29,6 +29,7 @@ public class Main {
                 i++;
             }
             scan.close();
+            //nice
 
             if(sum>100){
                 double cumulativeSum = 0.0;
